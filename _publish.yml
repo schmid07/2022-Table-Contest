@@ -1,0 +1,4 @@
+- source: 2022_table_contest.qmd
+  quarto-pub:
+    - id: cfd4200c-8247-429b-815f-c49f0ba6434d
+      url: 'https://quartopub.com/sites/schmid07/2022_table_contest'
