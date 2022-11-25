@@ -1,3 +1,3 @@
 ## Team 3-pt FGA vs. 2-pt FGA (Interactive Table
 
-[**Interactive Table**](https://schmid07.github.io/2022-Table-Contest/plots/2022_table_contest.html)
+[**Interactive Table**](https://schmid07.github.io/2022-Table-Contest/2022_table_contest.html)
